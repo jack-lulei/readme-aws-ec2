@@ -1,0 +1,2 @@
+port    server           usage
+80      apache httpd     http://Ip_address_of_ec2_amazon

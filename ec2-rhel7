@@ -1,0 +1,2 @@
+port      server      usage                  result                other
+80      apache http   http://ip_public/      apache home page      add port 80 in security group and firewall
