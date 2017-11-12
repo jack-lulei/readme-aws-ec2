@@ -1,2 +1,4 @@
 port    server           usage
 80      apache httpd     http://Ip_address_of_ec2_amazon
+8080    tomcat           http://ec2_public_IP/manager
+8443    tomcat           https://ec2_public_IP/manager
